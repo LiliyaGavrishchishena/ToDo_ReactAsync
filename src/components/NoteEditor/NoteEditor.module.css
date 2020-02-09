@@ -1,0 +1,40 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+  width: 500px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.add {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 0.6em;
+  font-variant: small-caps;
+  font-size: 2.5em;
+}
+.input {
+  padding: 14px 20px;
+  border-radius: 4px 0 0 4px;
+  width: 80%;
+  outline: none;
+  border: none;
+}
+.submit {
+  background-color: #4caf50;
+  color: #fff;
+  width: 20%;
+  cursor: pointer;
+  padding: 14px 20px;
+  border: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  margin: auto;
+}

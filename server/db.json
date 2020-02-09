@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "text": "Meet Jack",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "text": "Complete hometask",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "Go to theatre",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "Meet parents",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "ffff",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "text": "ffff",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}

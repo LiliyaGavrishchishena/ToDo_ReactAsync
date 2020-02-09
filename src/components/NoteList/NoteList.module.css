@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 16px;
+  margin-top: 32px;
+}
+.footer {
+  text-align: center;
+}

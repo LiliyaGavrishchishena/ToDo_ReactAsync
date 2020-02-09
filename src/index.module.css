@@ -1,0 +1,31 @@
+:global(html) {
+  box-sizing: border-box;
+}
+
+:global(*),
+:global(*::before),
+:global(*::after) {
+  box-sizing: inherit;
+}
+
+:global(body) {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+:global(button),
+:global(input) {
+  cursor: pointer;
+}
+
+:global(button, input) {
+  font-family: inherit;
+}
+
+body {
+  background-image: url('./assets/andrew-small-126292.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+}
